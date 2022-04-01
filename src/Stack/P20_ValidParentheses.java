@@ -41,7 +41,6 @@ public class P20_ValidParentheses {
                 return true;
             }
             return false;
-
         }
     }
 }
